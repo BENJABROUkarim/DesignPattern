@@ -2,7 +2,7 @@ package com.designpattern.singleton.alex;
 
 public final class Singleton
 {       
-    /** Constructeur privé RGR*/  
+    /** Constructeur privé */  
     private Singleton()
     {}
      
